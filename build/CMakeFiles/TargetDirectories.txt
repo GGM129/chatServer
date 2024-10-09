@@ -1,0 +1,10 @@
+/home/gjs/28_linux/build/CMakeFiles/edit_cache.dir
+/home/gjs/28_linux/build/CMakeFiles/rebuild_cache.dir
+/home/gjs/28_linux/build/src/CMakeFiles/edit_cache.dir
+/home/gjs/28_linux/build/src/CMakeFiles/rebuild_cache.dir
+/home/gjs/28_linux/build/src/server/CMakeFiles/ChatServer.dir
+/home/gjs/28_linux/build/src/server/CMakeFiles/edit_cache.dir
+/home/gjs/28_linux/build/src/server/CMakeFiles/rebuild_cache.dir
+/home/gjs/28_linux/build/src/client/CMakeFiles/ChatClient.dir
+/home/gjs/28_linux/build/src/client/CMakeFiles/edit_cache.dir
+/home/gjs/28_linux/build/src/client/CMakeFiles/rebuild_cache.dir
